@@ -2,12 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Research"
+    url: /markdown/
 
   - title: "Tidbits"
     url: /talks/    
 
-  - title: "Research"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "Open-Source Software"
     url: /portfolio/
@@ -17,6 +20,4 @@ main:
     
   # - title: "CV"
   #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  
