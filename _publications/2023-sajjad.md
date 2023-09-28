@@ -1,5 +1,5 @@
 ---
-title: "	Training warm-rain bulk microphysics schemes using super-droplet simulations"
+title: "Training warm-rain bulk microphysics schemes using super-droplet simulations"
 collection: publications
 permalink: /publication/2023-sajjad
 excerpt: 'This work presents a calibration pipeline for learning the parameters of a bulk microphysics method with Ensemble Kalman methods.'
