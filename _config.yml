@@ -14,7 +14,7 @@ description              : &description "PhD Student in Mechanical Engineering"
 url                      : https://edejong-caltech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edejong-caltech/edejong-caltech.github.io"
-teaser                   : /images/headshot_shasta.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : https://edejong-caltech.github.io//images/headshot_shasta.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily de Jong"
-  avatar           : /images/headshot_shasta.jpeg
+  avatar           : https://edejong-caltech.github.io//images/headshot_shasta.jpeg
   bio              : "Cloud connoisseur, mountain marveler, and PhD student"
   location         : "Pasadena, CA"
   employer         :
