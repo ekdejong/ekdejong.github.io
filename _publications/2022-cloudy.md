@@ -3,7 +3,7 @@ title: "An Efficient Bayesian Approach to Learning Droplet Collision Kernels: Pr
 collection: publications
 permalink: /publication/2022-cloudy
 excerpt: 'This paper demonstrates how to apply Ensemble Kalman in a learning pipeline to discover the parameters of a coalescence kernel for warm rain microphysics.'
-date: 2022
+date: 2022-01-01 00:00:01
 venue: 'Journal of Advances in Modeling Earth Systems'
 paperurl: 'http://edejong-caltech.github.io/files/2020-cloudy.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
