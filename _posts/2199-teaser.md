@@ -1,6 +1,6 @@
 ---
 title: 'Coming Soon'
-date: 2199-01-01
+date: 2023-09-27
 permalink: /posts/2199-teaser
 tags:
   - cool posts
