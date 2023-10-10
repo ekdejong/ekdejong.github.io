@@ -8,4 +8,4 @@ date: 2023-09-27
 location: "Washington, D. C."
 ---
 
-![image-title-here](../images/ScienceinParallel.jpeg){: style="float: left"} I was interviewed alongside my PhD advisor Tapio Schneider at the 2023 DOE CSGF Program Review for the "Science in Parallel" podcast produced by the Krell Institute. Hear us discuss our paths, experiences, and views on creativity in climate science [here](https://scienceinparallel.libsyn.com/season-4-episode-1-climate-modeling).
+![Science-in-parallel](../images/ScienceinParallel.jpeg){: style="float: left"; width: 200px; } I was interviewed alongside my PhD advisor Tapio Schneider at the 2023 DOE CSGF Program Review for the "Science in Parallel" podcast produced by the Krell Institute. Hear us discuss our paths, experiences, and views on creativity in climate science [here](https://scienceinparallel.libsyn.com/season-4-episode-1-climate-modeling).
