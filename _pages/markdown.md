@@ -6,9 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
-Coming soon
-
 # Modeling & Understanding Cloud Microphysics
 My PhD research aims to improve our understanding of microscale cloud processes in the atmosphere and climate system, primarily through improving the way we represent and model these physics.
 
