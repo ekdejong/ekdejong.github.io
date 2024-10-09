@@ -6,11 +6,14 @@ author_profile: true
 ---
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-- **E. K. de Jong**, E. Quon, and D. Zalkind (submitted).Idealized Offshore Low Level Jets for Turbine Structural Impact Considerations. *Contact for preprint*
+- **E. K. de Jong**, T. Schneider, J.-P. Jalkanen, P. O. Wennberg (submitted to GRL). What can lightning and shipping
+regulations tell us about aerosols in deeply convecting clouds? https://doi.org/10.22541/essoar.171632547.79526166/v1
 
-- S. Azimi, A. Jaruga, **E. de Jong**, S. Arabas, T. Schneider (submitted). Training warm-rain bulk microphysics schemes using super-droplet simulations. [Download preprint](http://edejong-caltech.github.io/files/2023-sajjad.pdf)
+- S. Azimi, A. Jaruga, **E. de Jong**, S. Arabas, T. Schneider (2024). Training warm-rain bulk microphysics schemes using super-droplet simulations. Journal of Advances in Modeling Earth Systems, 16(7). https://doi.org/10.1029/2023MS004028  
 
-- **E. K. de Jong**, E. Quon, and S. Yellapantula (in press). Mechanisms of Low-Level Jet Formation in the U.S. Mid-Atlantic Offshore. [Download preprint](http://edejong-caltech.github.io/files/2023-lljs.pdf)
+- **E. K. de Jong**, E. Quon, and D. Zalkind (submitted to Wind Energy). Idealized Offshore Low Level Jets for Turbine Structural Impact Considerations. https://doi.org/10.22541/au.170664363.31958897/v1
+
+- **E. K. de Jong**, E. Quon, and S. Yellapantula (2024). Mechanisms of Low-Level Jet Formation in the U.S. Mid-Atlantic Offshore. Journal of Atmospheric Sciences, 81(1). https://doi.org/10.1175/JAS-D-23-0079.1 
 
 - **de Jong** et al. (2023). New developments in PySDM and PySDM-examples v2: collisional breakup, immersion freezing, dry aerosol initialization,
 and adaptive time-stepping. Journal of Open Source Software, 8(84), 4968. https://doi.org/10.21105/joss.04968.
@@ -21,7 +24,7 @@ and adaptive time-stepping. Journal of Open Source Software, 8(84), 4968. https:
 
 - Bieli, M., Dunbar, O. R. A., **de Jong, E. K.**, Jaruga, A., Schneider, T., & Bischoff, T. (2022). An efficient Bayesian approach to learning droplet collision kernels: Proof of concept using “Cloudy,” a new n-moment bulk microphysics scheme. Journal of Advances in Modeling Earth Systems, 14, e2022MS002994. https://doi.org/10.1029/2022MS002994
 
-- Recommended citation: **de Jong, E.** (2019) Modeling Clogging and Erosion in Porous Media. Princeton Undergraduate Senior Thesis. http://arks.princeton.edu/ark:/88435/dsp01fj236492z [Request a copy](https://dataspace.princeton.edu/handle/88435/dsp01fj236492z)
+- **de Jong, E.** (2019) Modeling Clogging and Erosion in Porous Media. Princeton Undergraduate Senior Thesis. http://arks.princeton.edu/ark:/88435/dsp01fj236492z [Request a copy](https://dataspace.princeton.edu/handle/88435/dsp01fj236492z)
 
 - Bizmark, N., Schneider, J., **de Jong, E. K.**, & Datta, S. S. (2020). Transport of polymer colloids in porous media. In R. D. Priestley, & R. K. Prud'homme (Eds.), Polymer Colloids: Formation, Characterization and Applications (9 ed., pp. 289-321). (RSC Soft Matter; Vol. 2020-January, No. 9). Royal Society of Chemistry. 
 [Scopus preview](https://www.scopus.com/record/display.uri?eid=2-s2.0-85077148866&origin=inward&txGid=47b508758eff69d4cccadeda697ea535)

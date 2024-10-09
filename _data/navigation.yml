@@ -15,8 +15,8 @@ main:
   - title: "Open-Source Software"
     url: /portfolio/
         
-  - title: "Adventures"
-    url: /year-archive/
+  # - title: "Adventures"
+  #   url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
