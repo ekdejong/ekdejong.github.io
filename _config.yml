@@ -11,10 +11,10 @@ title                    : "Emily de Jong"
 title_separator          : "-"
 name                     : &name "Emily de Jong"
 description              : &description "PhD Student in Mechanical Engineering"
-url                      : https://edejong-caltech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ekdejong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "edejong-caltech/edejong-caltech.github.io"
-teaser                   : https://edejong-caltech.github.io//images/headshot_shasta.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "ekdejong/ekdejong.github.io"
+teaser                   : https://ekdejong.github.io//images/headshot_shasta.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily de Jong"
-  avatar           : https://edejong-caltech.github.io//images/headshot_shasta.jpeg
+  avatar           : https://ekdejong.github.io//images/headshot_shasta.jpeg
   bio              : "Cloud connoisseur, mountain marveler, and jolly good postdoctoral fellow"
   location         : "Livermore, CA"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "edejong-caltech"
+  github           : "ekdejong"
   google_plus      :
   keybase          :
   instagram        :

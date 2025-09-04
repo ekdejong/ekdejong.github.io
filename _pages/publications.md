@@ -29,4 +29,4 @@ and adaptive time-stepping. Journal of Open Source Software, 8(84), 4968. https:
 - Bizmark, N., Schneider, J., **de Jong, E. K.**, & Datta, S. S. (2020). Transport of polymer colloids in porous media. In R. D. Priestley, & R. K. Prud'homme (Eds.), Polymer Colloids: Formation, Characterization and Applications (9 ed., pp. 289-321). (RSC Soft Matter; Vol. 2020-January, No. 9). Royal Society of Chemistry. 
 [Scopus preview](https://www.scopus.com/record/display.uri?eid=2-s2.0-85077148866&origin=inward&txGid=47b508758eff69d4cccadeda697ea535)
 
-- B. G. del Rio, **E. K. de Jong**, and E. A. Carter (2019). "Properties of fusion-relevant liquid Li-Sn alloys: An ab initio molecular-dynamics study." <i>Nuclear Materials and Energy</i>. 18(326-330). [Download paper here](http://edejong-caltech.github.io/files/2019-lithium-tin.pdf)
+- B. G. del Rio, **E. K. de Jong**, and E. A. Carter (2019). "Properties of fusion-relevant liquid Li-Sn alloys: An ab initio molecular-dynamics study." <i>Nuclear Materials and Energy</i>. 18(326-330). [Download paper here](http://ekdejong.github.io/files/2019-lithium-tin.pdf)
