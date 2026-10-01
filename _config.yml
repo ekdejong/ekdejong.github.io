@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Emily de Jong"
 title_separator          : "-"
 name                     : &name "Emily de Jong"
-description              : &description "PhD Student in Mechanical Engineering"
+description              : &description "Atmospheric scientist studying cloud microphysics, machine learning, and climate prediction"
 url                      : https://ekdejong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ekdejong/ekdejong.github.io"
-teaser                   : https://ekdejong.github.io//images/headshot_shasta.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : https://ekdejong.github.io//images/headshot_2026.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Emily de Jong"
-  avatar           : https://ekdejong.github.io//images/headshot_shasta.jpeg
-  bio              : "Cloud connoisseur, mountain marveler, and jolly good postdoctoral fellow"
-  location         : "Livermore, CA"
+  avatar           : https://ekdejong.github.io//images/headshot_2026.jpg
+  bio              : "Cloud connoisseur, mountain marveler, and incurable fan of messy atmospheric physics"
+  location         : "Livermore, CA" # change to "Boulder, CO" once you move (Fall 2027)
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GlyGmh8AAAAJ&hl=en&oi=ao"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/emily-d-9a674aa9/"
+  linkedin         : "emily-d-9a674aa9"
   orcid            : "https://orcid.org/0000-0002-5310-4554"
   pinterest        :
   soundcloud       :
@@ -121,7 +121,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -181,9 +180,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -227,15 +223,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  #_portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   #_talks
   - scope:
       path: ""
